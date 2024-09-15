@@ -9,7 +9,7 @@ banner:
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: https://bit.ly/3xTmdUP
+  image: https://github.com/MrDoubleClick666/MrDoubleClick666.github.io/blob/master/assets/images/banners/Meeting1.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
